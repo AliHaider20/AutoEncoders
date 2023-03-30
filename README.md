@@ -1,0 +1,1 @@
+Used 5 layered AutoEncoder to extract image of size (3x256x256) features in the latent space of (3x16x16) and used that latent features to classify teat images which reached accuracy of 58% with just 10 epochs.
